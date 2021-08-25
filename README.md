@@ -22,12 +22,12 @@ As a software developer, I enjoy making creative and challenging web application
 **Languages and Tools:**
 </br>
 
-<img align="right" alt="image" src="react-2.svg" width="40" height="40" />
-<img align="right" alt="image" src="material-ui-1.svg" width="40" height="40" />
-<img align="right" alt="image" src="css-3.svg" width="40" height="40" />
-<img align="right" alt="image" src="html-1.svg" width="40" height="40" />
-<img align="right" alt="image" src="typescript.svg" width="40" height="40" />
-<img align="right" alt="image" src="logo-javascript.svg" width="40" height="40" />
-<img align="right" alt="image" src="mongodb-icon-1.svg" width="40" height="40" />
+<img align="right" alt="image" src="Images/react-2.svg" width="40" height="40" />
+<img align="right" alt="image" src="Images/material-ui-1.svg" width="40" height="40" />
+<img align="right" alt="image" src="Images/css-3.svg" width="40" height="40" />
+<img align="right" alt="image" src="Images/html-1.svg" width="40" height="40" />
+<img align="right" alt="image" src="Images/typescript.svg" width="40" height="40" />
+<img align="right" alt="image" src="Images/logo-javascript.svg" width="40" height="40" />
+<img align="right" alt="image" src="Images/mongodb-icon-1.svg" width="40" height="40" />
 
 </br>
