@@ -6,7 +6,7 @@ I am a self-taught full-stack software developer. I love programming, reading, t
 
 As a software developer, I enjoy making creative and challenging web applications that are both practical and aesthetic in design.
 
-<img align="right" alt="GIF" src="Programming.gif" width="350" height="290" />
+<img align="right" alt="GIF" src="Images/Programming.gif" width="350" height="290" />
   
 
 **A little about me:**
